@@ -1,3 +1,3 @@
 # java-orientado-a-objetos
 
-#Guilherme Gonçalves Mendonça, Curso engenharia de software FATESG
+#Curso Engenharia de Software, java orientado a objetos
